@@ -40,8 +40,8 @@ html, body {
 
 #searchBar {
   position: absolute;
-  top: 500px;   /* moves it down */
-  left: 20px;
+  top: 100px;   /* moves it down */
+  left: 200px;
   z-index: 9999;
 }
 
