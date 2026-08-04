@@ -9,7 +9,7 @@ const map = L.map('map', {
   crs: L.CRS.Simple,
   minZoom: 0,
   maxZoom: 3,
-  zoomControl: true
+  zoomControl: false
 });
 
 // Each tile is 512×512 pixels
