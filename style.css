@@ -41,7 +41,7 @@ html, body {
 #searchBar {
   position: absolute;
   top: 100px;   /* moves it down */
-  left: 200px;
+  left: 2000px;
   z-index: 9999;
 }
 
