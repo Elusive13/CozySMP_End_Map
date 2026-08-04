@@ -10,7 +10,7 @@ html, body {
 
 #search {
   position: absolute;
-  top: 10px;
+  top: 100px;
   left: 10px;
   z-index: 1000;
   padding: 8px;
@@ -36,12 +36,5 @@ html, body {
   margin: 4px 0 0 0;
   font-size: 14px;
   color: #444;
-}
-
-#searchBar {
-  position: absolute;
-  top: 500px;   /* moves it down */
-  left: 2000px;
-  z-index: 9999;
 }
 
