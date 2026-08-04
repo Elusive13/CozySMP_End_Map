@@ -10,7 +10,7 @@ html, body {
 
 #search {
   position: absolute;
-  top: 100px;
+  top: 75px;
   left: 10px;
   z-index: 1000;
   padding: 8px;
