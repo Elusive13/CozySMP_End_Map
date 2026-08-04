@@ -37,3 +37,11 @@ html, body {
   font-size: 14px;
   color: #444;
 }
+
+#searchBar {
+  position: absolute;
+  top: 100px;   /* moves it down */
+  left: 20px;
+  z-index: 9999;
+}
+
